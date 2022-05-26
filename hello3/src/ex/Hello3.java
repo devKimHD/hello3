@@ -11,12 +11,9 @@ public class Hello3 {
 		System.out.println("kimHD hello a");
 		System.out.println("kimHD hello b");
 		System.out.println("kimHD hello HD(Human department)");
-<<<<<<< HEAD
-		
+
 		System.out.println("KKK");
 
-=======
->>>>>>> branch 'master' of https://github.com/devKimHD/hello3.git
 		
 		int aa;
 		int bb;
