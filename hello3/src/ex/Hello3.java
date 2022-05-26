@@ -14,6 +14,9 @@ public class Hello3 {
 		String ab="adbc";
 		System.out.println("kimHD add 1530 15");
 		System.out.println("kimHD add 1532 16");
+		System.out.println("KKK yhw 15");
+		System.out.println("i got it yhw 16");
+
 		int aa;
 		int bb;
 		String cc;
