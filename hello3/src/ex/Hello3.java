@@ -7,9 +7,13 @@ public class Hello3 {
 		System.out.println("kimHD hello b");
 		System.out.println("수정합니다");
 		System.out.println("kimHD hello HD(Human department)");
+
+		System.out.println("KKK");
+
 		
 		int aa;
 		int bb;
 		String cc;
+
 	}
 }
