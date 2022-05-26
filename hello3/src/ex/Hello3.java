@@ -11,9 +11,12 @@ public class Hello3 {
 		System.out.println("kimHD hello a");
 		System.out.println("kimHD hello b");
 		System.out.println("kimHD hello HD(Human department)");
-		
+		String ab="adbc";
+		System.out.println("kimHD add 1530 15");
+		System.out.println("kimHD add 1532 16");
 		int aa;
 		int bb;
 		String cc;
+		
 	}
 }
