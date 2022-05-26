@@ -5,7 +5,7 @@ public class Hello3 {
 
 		System.out.println("kimHD hello a");
 		System.out.println("kimHD hello b");
-		System.out.println("asdszxcxz");
+		System.out.println("수정합니다");
 		System.out.println("kimHD hello HD(Human department)");
 		
 		int aa;
